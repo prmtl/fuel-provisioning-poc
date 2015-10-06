@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = provision_poc
+omit = provision_poc/openstack/*
+
+[report]
+ignore_errors = True
